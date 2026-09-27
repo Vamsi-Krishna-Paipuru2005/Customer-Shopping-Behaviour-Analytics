@@ -488,7 +488,7 @@ The dashboard presents insights into **customer spending, product performance, p
 
 ### Power BI Dashboard File
 
-[Open Customer Shopping Behaviour Dashboard](..\Interactive_Dashboard\Customer_Shopping_behaviour.pbix)
+[Open Customer Shopping Behaviour Dashboard](../Interactive_Dashboard/Customer_Shopping_behaviour.pbix)
 
 
 ## 6. Business Recommendations
