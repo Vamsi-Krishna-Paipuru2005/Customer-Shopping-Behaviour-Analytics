@@ -512,7 +512,7 @@ A professional presentation was created to summarize the **Customer Shopping Beh
 
 ## 8. Conclusion
 
-The **Customer Shopping Behaviour Analysis** project transformed raw customer purchase data into structured and meaningful business insights. The analysis examined customer spending patterns, product performance, discounts, subscription behaviour, customer segments, and purchasing patterns.
+The **Customer Shopping Behaviour & Retail Sales Analytics** project transformed raw customer purchase data into structured and meaningful business insights. The analysis examined customer spending patterns, product performance, discounts, subscription behaviour, customer segments, and purchasing patterns.
 
 The project used **Python and Pandas** for data cleaning and exploratory analysis, **PostgreSQL and SQL** for structured business analysis, and **Power BI** for interactive data visualization.
 
